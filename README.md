@@ -1,4 +1,3 @@
-#### Welcome to Photon Code Challenge!
 
 #### In order to complete this coding solution, please read below steps and requirements:
 
